@@ -1,0 +1,42 @@
+---
+title: "Untitled"
+author: "Xiaomeng"
+date: '2023-04-19'
+output: html_document
+---
+
+# Readme Template
+
+Directory: \~/Library/CloudStorage/Box-Box/0Xiaomeng's work/course/data-management/R-intro
+
+Project involved: *Salix herbacea*
+
+*Create person: Xiaomeng*
+
+*Create time: 2023-04-19*
+
+### Limits of authority
+
+## Structure of folder
+
+-   folder1 #explanation
+
+    -   file1 #explanation
+
+    -   file2
+
+    -   file3
+
+-   folder2
+
+-   folder3
+
+-   folder4
+
+## Edit history
+
+1.  time. person. edit
+
+2.  time. person. edit
+
+3.  
